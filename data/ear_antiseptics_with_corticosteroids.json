@@ -1,0 +1,76 @@
+[
+  {
+    "url": "https://www.netmeds.com/product/aqua-ear-drops-5ml-m1ydj4-8538320",
+    "name": "Aqua Ear Drops 5ml",
+    "brand": "Leeford Healthcare Ltd (Generics)",
+    "packInfo": "Container of 5 ml ear drops",
+    "isPrescriptionRequired": true,
+    "price": {
+      "bestPrice": "₹34.65",
+      "mrp": "₹70.00",
+      "discountedPrice": "₹38.50"
+    },
+    "introduction": null,
+    "uses": [],
+    "usesDetails": null,
+    "mechanismOfAction": null,
+    "usageInstructions": [],
+    "usageDetails": null,
+    "sideEffects": [],
+    "sideEffectsDetails": null,
+    "warnings": [],
+    "warningsRaw": "",
+    "interactions": null,
+    "synopsis": {},
+    "moreInfo": null,
+    "faqs": [],
+    "references": [],
+    "author": null,
+    "lastUpdated": null,
+    "categoryChain": [
+      "Ear Conditions"
+    ],
+    "composition": null,
+    "images": [
+      "https://cdn.netmeds.tech/v2/plain-cake-860195/netmed/wrkr/products/pictures/item/free/resize-w:400/opFCYPwW9x-aqua_ear_drops_5ml_0_0.jpg",
+      "https://cdn.netmeds.tech/v2/plain-cake-860195/netmed/wrkr/products/pictures/item/free/resize-w:80/opFCYPwW9x-aqua_ear_drops_5ml_0_0.jpg"
+    ]
+  },
+  {
+    "url": "https://www.netmeds.com/product/aquaear-ultra-ear-drops-5ml-mcd5kr-11270789",
+    "name": "AQUAEAR ULTRA Ear Drops 5ml",
+    "brand": "Leeford Healthcare Ltd (Generics)",
+    "packInfo": "Container of 5 ml ear drops",
+    "isPrescriptionRequired": true,
+    "price": {
+      "bestPrice": "₹63.00",
+      "mrp": null,
+      "discountedPrice": "₹70.00"
+    },
+    "introduction": null,
+    "uses": [],
+    "usesDetails": null,
+    "mechanismOfAction": null,
+    "usageInstructions": [],
+    "usageDetails": null,
+    "sideEffects": [],
+    "sideEffectsDetails": null,
+    "warnings": [],
+    "warningsRaw": "",
+    "interactions": null,
+    "synopsis": {},
+    "moreInfo": null,
+    "faqs": [],
+    "references": [],
+    "author": null,
+    "lastUpdated": null,
+    "categoryChain": [
+      "Ear Conditions"
+    ],
+    "composition": null,
+    "images": [
+      "https://hdn-1.fynd.com/media/fynd_store_items/l2_category/resize-w:400/2830_c5bb5fc02f414307a828c4c56483c30a.jpg",
+      "https://hdn-1.fynd.com/media/fynd_store_items/l2_category/resize-w:80/2830_c5bb5fc02f414307a828c4c56483c30a.jpg"
+    ]
+  }
+]

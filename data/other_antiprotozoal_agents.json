@@ -1,0 +1,39 @@
+[
+  {
+    "url": "https://www.netmeds.com/product/amicline-tablet-10s-lui6ma-8327749",
+    "name": "Amicline Tablet 10'S",
+    "brand": "Franco Indian Pharmaceuticals Pvt Ltd",
+    "packInfo": "Strip of 10 tablets",
+    "isPrescriptionRequired": true,
+    "price": {
+      "bestPrice": "₹10.53",
+      "mrp": "₹13.00",
+      "discountedPrice": "₹11.70"
+    },
+    "introduction": null,
+    "uses": [],
+    "usesDetails": null,
+    "mechanismOfAction": null,
+    "usageInstructions": [],
+    "usageDetails": null,
+    "sideEffects": [],
+    "sideEffectsDetails": null,
+    "warnings": [],
+    "warningsRaw": "",
+    "interactions": null,
+    "synopsis": {},
+    "moreInfo": null,
+    "faqs": [],
+    "references": [],
+    "author": null,
+    "lastUpdated": null,
+    "categoryChain": [
+      "Amoebiasis"
+    ],
+    "composition": null,
+    "images": [
+      "https://cdn.netmeds.tech/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/resize-w:400/MhU6YBxthN-amicline_tablet_10_s_0.jpg",
+      "https://cdn.netmeds.tech/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/resize-w:80/MhU6YBxthN-amicline_tablet_10_s_0.jpg"
+    ]
+  }
+]
