@@ -3,8 +3,8 @@
     "name": "Antidiabetic Agents",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Antidiabetic%20Agents",
     "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766399052186",
-    "updatedAt": "2025-12-22T10:24:12.208Z",
+    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
+    "updatedAt": "2025-12-23T07:41:52.754Z",
     "error": "Connection closed.",
     "retryCount": 0
   },
@@ -12,29 +12,29 @@
     "name": "Anxiolytics",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Anxiolytics",
     "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766399052186",
-    "updatedAt": "2025-12-22T10:24:12.208Z"
+    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
+    "updatedAt": "2025-12-23T07:41:52.754Z"
   },
   {
     "name": "Vitamins &/or Minerals",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Vitamins%20%26%2For%20Minerals",
     "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766399052186",
-    "updatedAt": "2025-12-22T10:24:12.208Z"
+    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
+    "updatedAt": "2025-12-23T07:41:52.754Z"
   },
   {
     "name": "Nonsteroidal Anti",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Nonsteroidal%20Anti-Inflammatory%20Drugs%20%28NSAIDs%29",
     "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766399052186",
-    "updatedAt": "2025-12-22T10:24:12.208Z"
+    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
+    "updatedAt": "2025-12-23T07:41:52.754Z"
   },
   {
     "name": "Angiotensin II Antagonists",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Angiotensin%20II%20Antagonists",
     "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766399052186",
-    "updatedAt": "2025-12-22T10:24:12.208Z"
+    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
+    "updatedAt": "2025-12-23T07:41:52.754Z"
   },
   {
     "name": "Antacids, Antireflux Agents & Antiulcerants",
@@ -48,30 +48,30 @@
   {
     "name": "Dyslipidaemic Agents",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Dyslipidaemic%20Agents",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T10:41:20.806Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Antidepressants",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Antidepressants",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T10:41:20.806Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Cephalosporins",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Cephalosporins",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T10:41:20.806Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Other Dermatologicals",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Other%20Dermatologicals",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T10:41:20.806Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Supplements & Adjuvant Therapy",
@@ -83,32 +83,32 @@
   {
     "name": "Anticonvulsants",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Anticonvulsants",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766401193264",
-    "updatedAt": "2025-12-22T10:59:53.289Z",
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z",
     "error": "Attempted to use detached Frame 'A87DA3945A14BDB0BCE04609D78A5735'.",
     "retryCount": 0
   },
   {
     "name": "Emollients & Skin Protectives",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Emollients%20%26%20Skin%20Protectives",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766401193264",
-    "updatedAt": "2025-12-22T10:59:53.289Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Cough & Cold Preparations",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Cough%20%26%20Cold%20Preparations",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766401193264",
-    "updatedAt": "2025-12-22T10:59:53.289Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Antiasthmatic & COPD Preparations",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Antiasthmatic%20%26%20COPD%20Preparations",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766401193264",
-    "updatedAt": "2025-12-22T10:59:53.289Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Topical Antifungals & Antiparasites",
@@ -120,32 +120,32 @@
   {
     "name": "Antihistamines & Antiallergics",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Antihistamines%20%26%20Antiallergics",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766401193264",
-    "updatedAt": "2025-12-22T10:59:53.289Z",
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z",
     "error": "Connection closed.",
     "retryCount": 0
   },
   {
     "name": "Drugs For Neuropathic Pain",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Drugs%20For%20Neuropathic%20Pain",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T11:29:41.477Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Beta-Blockers",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Beta-Blockers",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T11:29:41.477Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Antipsychotics",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Antipsychotics",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T11:29:41.477Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Anticoagulants, Antiplatelets & Fibrinolytics (Thrombolytics)",
@@ -192,18 +192,18 @@
   {
     "name": "Topical Anti-Infectives with Corticosteroids",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Topical%20Anti-Infectives%20with%20Corticosteroids",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T11:29:41.477Z",
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z",
     "error": "Connection closed.",
     "retryCount": 0
   },
   {
     "name": "Drugs for Bladder & Prostate Disorders",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Drugs%20for%20Bladder%20%26%20Prostate%20Disorders",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T11:29:41.477Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Oestrogens & Progesterones & Related Synthetic Drugs",
@@ -215,9 +215,9 @@
   {
     "name": "Acne Treatment Preparations",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Acne%20Treatment%20Preparations",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766402982705",
-    "updatedAt": "2025-12-22T11:29:42.726Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Analgesics (Non-Opioid) & Antipyretics",
@@ -229,32 +229,32 @@
   {
     "name": "Vitamins & Minerals (Pre & Post Natal) / Antianemics",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Vitamins%20%26%20Minerals%20%28Pre%20%26%20Post%20Natal%29%20%2F%20Antianemics",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766402982705",
-    "updatedAt": "2025-12-22T11:29:42.726Z",
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z",
     "error": "Connection closed.",
     "retryCount": 0
   },
   {
     "name": "Macrolides",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Macrolides",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766402982705",
-    "updatedAt": "2025-12-22T11:29:42.726Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Eye Anti-Infectives & Antiseptics",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Eye%20Anti-Infectives%20%26%20Antiseptics",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766402982705",
-    "updatedAt": "2025-12-22T11:29:42.726Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Calcium/with Vitamins(P)",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Calcium%2Fwith%20Vitamins%28P%29",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766403346345",
-    "updatedAt": "2025-12-22T11:35:46.446Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Hypnotics & Sedatives",
@@ -294,32 +294,32 @@
   {
     "name": "Trophic Hormones & Related Synthetic Drugs",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Trophic%20Hormones%20%26%20Related%20Synthetic%20Drugs",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766403346345",
-    "updatedAt": "2025-12-22T11:35:46.446Z",
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z",
     "error": "CONCURRENT_PRODUCTS_PER_BROWSER is not defined",
     "retryCount": 0
   },
   {
     "name": "Quinolones",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Quinolones",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766403346345",
-    "updatedAt": "2025-12-22T11:35:46.446Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Immunosuppressants",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Immunosuppressants",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766403346345",
-    "updatedAt": "2025-12-22T11:35:46.446Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Laxatives, Purgatives",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Laxatives,%20Purgatives",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766403346345",
-    "updatedAt": "2025-12-22T11:35:46.446Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Antidiarrheals",
@@ -352,16 +352,16 @@
   {
     "name": "Antivirals",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Antivirals",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T11:52:44.262Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Ophthalmic Lubricants",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Ophthalmic%20Lubricants",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T11:52:44.262Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Diuretics",
@@ -415,9 +415,9 @@
   {
     "name": "Antiemetics",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Antiemetics",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T11:52:44.262Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Topical Antibiotics",
@@ -457,16 +457,16 @@
   {
     "name": "GIT Regulators, Antiflatulents & Anti-Inflammatories",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=GIT%20Regulators,%20Antiflatulents%20%26%20Anti-Inflammatories",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T12:22:22.695Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Drugs Acting on the Uterus",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Drugs%20Acting%20on%20the%20Uterus",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T12:22:22.695Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Skin Antiseptics & Disinfectants",
@@ -506,23 +506,23 @@
   {
     "name": "Drugs for Erectile Dysfunction",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Drugs%20for%20Erectile%20Dysfunction",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T12:22:22.695Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Disease-Modifying Anti-Rheumatic Drugs (DMARDs)",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Disease-Modifying%20Anti-Rheumatic%20Drugs%20%28DMARDs%29",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T12:22:22.695Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Digestives",
     "url": "https://www.netmeds.com/collection/all-medicines?categorynamelevel2=Digestives",
-    "status": "in_progress",
-    "workerId": "worker_DESKTOP-LEK6EAR_1766400080783",
-    "updatedAt": "2025-12-22T12:22:22.695Z"
+    "status": "pending",
+    "workerId": null,
+    "updatedAt": "2025-12-23T07:41:42.765Z"
   },
   {
     "name": "Ophthalmic Decongestants, Anesthetics, Anti-Inflammatories",
