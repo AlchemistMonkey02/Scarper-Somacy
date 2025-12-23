@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: somacy-scraper
+    env: docker
+    plan: free
+    region: ohio
+    branch: project-scraper
+    envVars:
+      - key: PORT
+        value: 3000
