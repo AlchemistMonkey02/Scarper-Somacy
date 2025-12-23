@@ -246,7 +246,8 @@ async function scrapeCategory(category) {
         await reportProgress(category.name, category.url, 'working', partialData.length, products.length);
 
         const results = [...partialData]; // Start with existing data
-        for (let i = 0; i < productsToScrape.length; i += CONCURRENT_PRODUCTS_PER_BROWSER) {`r`n            const batch = productsToScrape.slice(i, i + CONCURRENT_PRODUCTS_PER_BROWSER);
+        for (let i = 0; i < productsToScrape.length; i += CONCURRENT_PRODUCTS_PER_BROWSER) {
+            const batch = productsToScrape.slice(i, i + CONCURRENT_PRODUCTS_PER_BROWSER);
             const batchPromises = batch.map(async (prod) => {
                 let pdpPage;
                 try {
@@ -307,6 +308,10 @@ async function runWorker() {
     console.log(`👷 Worker ${WORKER_ID} starting...`);
     let totalScrapedByThisWorker = 0;
 
+    const MAX_RUN_TIME = 2 * 60 * 60 * 1000; // 2 Hours
+    const REST_PERIOD = 30 * 60 * 1000;      // 30 Minutes
+    let workerStartTime = Date.now();
+
     while (true) {
         if (TOTAL_LIMIT > 0 && totalScrapedByThisWorker >= TOTAL_LIMIT) {
             console.log(`🏁 Reached total limit of ${TOTAL_LIMIT} categories. Stopping.`);
@@ -331,11 +336,19 @@ async function runWorker() {
 
             console.log(`📦 Got batch of ${batch.length} categories.`);
             for (const category of batch) {
+                // --- 🛑 TIMEOUT CHECK ---
+                if (Date.now() - workerStartTime > MAX_RUN_TIME) {
+                    console.log(`⏰ Worker has been running for > 2 hours. Taking a 30-minute break...`);
+                    await delay(REST_PERIOD);
+                    console.log(`🌅 30 minutes over. Resuming work...`);
+                    workerStartTime = Date.now(); // Reset timer
+                }
+
                 await scrapeCategory(category);
                 totalScrapedByThisWorker++;
 
                 if (TOTAL_LIMIT > 0 && totalScrapedByThisWorker >= TOTAL_LIMIT) {
-                    console.log(`🏁 Reached total limit of ${TOTAL_LIMIT} categories. stopping.`);
+                    console.log(`🏁 Reached total limit of ${TOTAL_LIMIT} categories. Stopping.`);
                     return;
                 }
             }
