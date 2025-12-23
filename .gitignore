@@ -1,5 +1,15 @@
 node_modules
 # Ignore all JSON files
-*.json
+data/*.json
 !package.json
 !package-lock.json
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+*.svg
+
